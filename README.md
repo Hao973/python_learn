@@ -8,3 +8,6 @@ python learn note
 ## 2. excel_operate
 ### 2.1 excel learn note
 
+## 3. effective_python_learning
+> effective python learning code note
+
