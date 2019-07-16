@@ -6,8 +6,8 @@ python learn note
 * log learn code, log use tool class.
 
 ## 2. excel_operate
-### 2.1 excel learn note
+> python excel lib learn code
 
 ## 3. effective_python_learning
-> effective python learning code note
+> effective python learn code note
 
